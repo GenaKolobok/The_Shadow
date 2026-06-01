@@ -34,14 +34,14 @@
 
 # Скриншоты игры
 
-![](attachment/screenshot1.png)
+![](attachment/screenshot1.jpg)
 
-![](attachment/screenshot2.png)
+![](attachment/screenshot2.jpg)
 
-![](attachment/screenshot3.png)
+![](attachment/screenshot3.jpg)
 
-![](attachment/screenshot4.png)
+![](attachment/screenshot4.jpg)
 
-![](attachment/screenshot5.png)
+![](attachment/screenshot5.jpg)
 
-![](attachment/screenshot6.png)
+![](attachment/screenshot6.jpg)
