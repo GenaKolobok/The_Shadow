@@ -1,0 +1,895 @@
+fileFormatVersion: 2
+guid: 980e97569948f2d4195a02a8268a77d2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TX Props with Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b22f199932e6794d8891bcefadd1679
+      internalID: 1079205552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1118d2872d496f542bcbd2a945d2d3d9
+      internalID: 876608105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112578262ecd72d469b13a3e93322781
+      internalID: -1840898600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9d0f6939e8ed246a96aab4ca929598
+      internalID: 1188532484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac86823c7289b2489b1361ad85abe0d
+      internalID: 1475540371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow_60
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c312d2ac41b45d446983104f75ff720f
+      internalID: 317141121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow_89
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 416
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc1e9324b546d046ba43536179e3f10
+      internalID: -690202928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow_121
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef32669645e5f4438f67f9e15b0eb70
+      internalID: -1031293984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow_189
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dab2fdbd4ad2c4e8a266263256fce3
+      internalID: 1586262428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow_191
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a0a182a4fb92e479392e203c2dc1e3
+      internalID: -835857343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bda702f9ba59946a56227150caa110
+      internalID: 1606753011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow_225
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f17fc530bbb5f41bcca77e62f835b0
+      internalID: 327818907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow_227
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 36
+        height: 66
+      alignment: 9
+      pivot: {x: 0.45, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973cef673dd0f9c4c8e77dc516e3d90f
+      internalID: -221260373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow_248
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edf8fd0d2a27c14cb2e0ed96fa68e5f
+      internalID: -2005144390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow_293
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d5830b249c1124a82f6f70f11734eb
+      internalID: -1866977813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow_321
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 163
+        width: 35
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f844f09e3cf2189439647dee72aff2e2
+      internalID: -1558873648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props with Shadow_339
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcdaadb37d97294dbe6054447bb4871
+      internalID: 2009469299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 33d02e3a2ca6d0240b1b63216c1ac27a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      TX Props with Shadow_0: 2001233604
+      TX Props with Shadow_1: -121255112
+      TX Props with Shadow_10: -1683539732
+      TX Props with Shadow_100: -1086132328
+      TX Props with Shadow_101: -841338303
+      TX Props with Shadow_102: -828024728
+      TX Props with Shadow_103: 320110806
+      TX Props with Shadow_104: -2016183076
+      TX Props with Shadow_105: 838170443
+      TX Props with Shadow_106: -1926051326
+      TX Props with Shadow_107: 897939960
+      TX Props with Shadow_108: 1789266588
+      TX Props with Shadow_109: 10449785
+      TX Props with Shadow_11: -987522690
+      TX Props with Shadow_110: 823096575
+      TX Props with Shadow_111: -1919492498
+      TX Props with Shadow_112: -1211696855
+      TX Props with Shadow_113: 1433404751
+      TX Props with Shadow_114: -211374365
+      TX Props with Shadow_115: -1640092920
+      TX Props with Shadow_116: 1814705359
+      TX Props with Shadow_117: -295285570
+      TX Props with Shadow_118: -762224296
+      TX Props with Shadow_119: -114352000
+      TX Props with Shadow_12: 1305146692
+      TX Props with Shadow_120: -1372410287
+      TX Props with Shadow_121: -1031293984
+      TX Props with Shadow_122: 533730072
+      TX Props with Shadow_123: 1146524541
+      TX Props with Shadow_124: 82133249
+      TX Props with Shadow_125: 1618901905
+      TX Props with Shadow_126: -1123180800
+      TX Props with Shadow_127: -331911964
+      TX Props with Shadow_128: -1168364949
+      TX Props with Shadow_129: -193892445
+      TX Props with Shadow_13: -1292123531
+      TX Props with Shadow_130: -365367484
+      TX Props with Shadow_131: 1077986448
+      TX Props with Shadow_132: 1350734373
+      TX Props with Shadow_133: -61702657
+      TX Props with Shadow_134: -1805110217
+      TX Props with Shadow_135: 1138235145
+      TX Props with Shadow_136: 459290339
+      TX Props with Shadow_137: 200575846
+      TX Props with Shadow_138: -1944208063
+      TX Props with Shadow_139: -624319012
+      TX Props with Shadow_14: 1079205552
+      TX Props with Shadow_140: 246937601
+      TX Props with Shadow_141: -1224471169
+      TX Props with Shadow_142: 1358444399
+      TX Props with Shadow_143: 1896347285
+      TX Props with Shadow_144: -2033128644
+      TX Props with Shadow_145: -392593734
+      TX Props with Shadow_146: -1850519691
+      TX Props with Shadow_147: -697356120
+      TX Props with Shadow_148: 459561810
+      TX Props with Shadow_149: 1958603144
+      TX Props with Shadow_15: 876608105
+      TX Props with Shadow_150: 511690498
+      TX Props with Shadow_151: 378245130
+      TX Props with Shadow_152: 1402022334
+      TX Props with Shadow_153: 902757601
+      TX Props with Shadow_154: 1412312215
+      TX Props with Shadow_155: -1711434822
+      TX Props with Shadow_156: -882766570
+      TX Props with Shadow_157: -645351076
+      TX Props with Shadow_158: 1626442475
+      TX Props with Shadow_159: 232574424
+      TX Props with Shadow_16: -1881537230
+      TX Props with Shadow_160: 1504073645
+      TX Props with Shadow_161: 1733188758
+      TX Props with Shadow_162: 1943507421
+      TX Props with Shadow_163: 1341745715
+      TX Props with Shadow_164: 1922425421
+      TX Props with Shadow_165: -1642470816
+      TX Props with Shadow_166: 1613438505
+      TX Props with Shadow_167: -1999757979
+      TX Props with Shadow_168: -2098462194
+      TX Props with Shadow_169: 163584503
+      TX Props with Shadow_17: 2076104415
+      TX Props with Shadow_170: -631266155
+      TX Props with Shadow_171: 1918648507
+      TX Props with Shadow_172: 1783052430
+      TX Props with Shadow_173: -808694524
+      TX Props with Shadow_174: 866434852
+      TX Props with Shadow_175: 1012511498
+      TX Props with Shadow_176: 770236445
+      TX Props with Shadow_177: -1162168565
+      TX Props with Shadow_178: 1492362319
+      TX Props with Shadow_179: 1446192034
+      TX Props with Shadow_18: 1563851166
+      TX Props with Shadow_180: 588826762
+      TX Props with Shadow_181: -1912823846
+      TX Props with Shadow_182: 551888352
+      TX Props with Shadow_183: -1948534669
+      TX Props with Shadow_184: 1098554750
+      TX Props with Shadow_185: 1171231862
+      TX Props with Shadow_186: 557613966
+      TX Props with Shadow_187: -280926145
+      TX Props with Shadow_188: -1887008734
+      TX Props with Shadow_189: 1586262428
+      TX Props with Shadow_19: 564817907
+      TX Props with Shadow_190: 1664117194
+      TX Props with Shadow_191: -835857343
+      TX Props with Shadow_192: -437058365
+      TX Props with Shadow_193: -338046493
+      TX Props with Shadow_194: 1279992257
+      TX Props with Shadow_195: -219364675
+      TX Props with Shadow_196: -325035908
+      TX Props with Shadow_197: -370709871
+      TX Props with Shadow_198: -887131606
+      TX Props with Shadow_199: -1161274862
+      TX Props with Shadow_2: 1767638128
+      TX Props with Shadow_20: 1638361042
+      TX Props with Shadow_200: 969964095
+      TX Props with Shadow_201: 1990521312
+      TX Props with Shadow_202: 305728147
+      TX Props with Shadow_203: -1690603072
+      TX Props with Shadow_204: 411277699
+      TX Props with Shadow_205: 696892622
+      TX Props with Shadow_206: 565132949
+      TX Props with Shadow_207: -1864121497
+      TX Props with Shadow_208: -498764491
+      TX Props with Shadow_209: 1523484036
+      TX Props with Shadow_21: -1673234939
+      TX Props with Shadow_210: -513190758
+      TX Props with Shadow_211: -809588215
+      TX Props with Shadow_212: -611721942
+      TX Props with Shadow_213: 697710699
+      TX Props with Shadow_214: -1326457328
+      TX Props with Shadow_215: 1802152482
+      TX Props with Shadow_216: 374403
+      TX Props with Shadow_217: -199151941
+      TX Props with Shadow_218: -894176773
+      TX Props with Shadow_219: -573530981
+      TX Props with Shadow_22: 372962787
+      TX Props with Shadow_220: -982226423
+      TX Props with Shadow_221: -78398991
+      TX Props with Shadow_222: 1038717871
+      TX Props with Shadow_223: 1606753011
+      TX Props with Shadow_224: -466921757
+      TX Props with Shadow_225: 327818907
+      TX Props with Shadow_226: 2378573
+      TX Props with Shadow_227: -221260373
+      TX Props with Shadow_228: 1955037080
+      TX Props with Shadow_229: 1132777208
+      TX Props with Shadow_23: 1609683114
+      TX Props with Shadow_230: 1432562649
+      TX Props with Shadow_231: -1603334747
+      TX Props with Shadow_232: 1690688167
+      TX Props with Shadow_233: -218242160
+      TX Props with Shadow_234: 1023768484
+      TX Props with Shadow_235: 1989563191
+      TX Props with Shadow_236: -1147786262
+      TX Props with Shadow_237: 1473621177
+      TX Props with Shadow_238: 1701372891
+      TX Props with Shadow_239: -1764959818
+      TX Props with Shadow_24: -968806093
+      TX Props with Shadow_240: 778946587
+      TX Props with Shadow_241: 2069669969
+      TX Props with Shadow_242: 843613407
+      TX Props with Shadow_243: -1642824074
+      TX Props with Shadow_244: -1349956192
+      TX Props with Shadow_245: 1713442389
+      TX Props with Shadow_246: -307374452
+      TX Props with Shadow_247: 1976708440
+      TX Props with Shadow_248: -2005144390
+      TX Props with Shadow_249: 729916011
+      TX Props with Shadow_25: -1389710564
+      TX Props with Shadow_250: -1439838403
+      TX Props with Shadow_251: -1140927200
+      TX Props with Shadow_252: 1526679325
+      TX Props with Shadow_253: 1135108810
+      TX Props with Shadow_254: 984782949
+      TX Props with Shadow_255: 937264305
+      TX Props with Shadow_256: 1724620335
+      TX Props with Shadow_257: 465031798
+      TX Props with Shadow_258: 2115774018
+      TX Props with Shadow_259: -785871800
+      TX Props with Shadow_26: -395770408
+      TX Props with Shadow_260: 173779107
+      TX Props with Shadow_261: -726018962
+      TX Props with Shadow_262: -2017036173
+      TX Props with Shadow_263: -1000276002
+      TX Props with Shadow_264: -828088798
+      TX Props with Shadow_265: -1300282318
+      TX Props with Shadow_266: -245283974
+      TX Props with Shadow_267: 748526488
+      TX Props with Shadow_268: -690907431
+      TX Props with Shadow_269: 1472700965
+      TX Props with Shadow_27: -281401289
+      TX Props with Shadow_270: 1796864417
+      TX Props with Shadow_271: 1091124410
+      TX Props with Shadow_272: -1705938966
+      TX Props with Shadow_273: 419300972
+      TX Props with Shadow_274: -1309796037
+      TX Props with Shadow_275: 2054549896
+      TX Props with Shadow_276: 1144042072
+      TX Props with Shadow_277: 1576889639
+      TX Props with Shadow_278: 1297190634
+      TX Props with Shadow_279: 189986429
+      TX Props with Shadow_28: -72382936
+      TX Props with Shadow_280: 859619632
+      TX Props with Shadow_281: 877400514
+      TX Props with Shadow_282: -1006322861
+      TX Props with Shadow_283: -86712034
+      TX Props with Shadow_284: -1360059458
+      TX Props with Shadow_285: 765347496
+      TX Props with Shadow_286: 1522328292
+      TX Props with Shadow_287: -1408707707
+      TX Props with Shadow_288: -1461954514
+      TX Props with Shadow_289: -1989624331
+      TX Props with Shadow_29: -1514112406
+      TX Props with Shadow_290: 482144065
+      TX Props with Shadow_291: -546807533
+      TX Props with Shadow_292: -558530442
+      TX Props with Shadow_293: -1866977813
+      TX Props with Shadow_294: -1750264201
+      TX Props with Shadow_295: 200280947
+      TX Props with Shadow_296: -1217852574
+      TX Props with Shadow_297: 817257838
+      TX Props with Shadow_298: -712511237
+      TX Props with Shadow_299: -1296406162
+      TX Props with Shadow_3: -1707776425
+      TX Props with Shadow_30: 1832191720
+      TX Props with Shadow_300: 448338580
+      TX Props with Shadow_301: -912574320
+      TX Props with Shadow_302: -1655967905
+      TX Props with Shadow_303: 388517212
+      TX Props with Shadow_304: 1467940900
+      TX Props with Shadow_305: -320992064
+      TX Props with Shadow_306: -84132464
+      TX Props with Shadow_307: -479580453
+      TX Props with Shadow_308: -695079820
+      TX Props with Shadow_309: -1701017656
+      TX Props with Shadow_31: -1934054430
+      TX Props with Shadow_310: -1690088560
+      TX Props with Shadow_311: 440964060
+      TX Props with Shadow_312: -1718923304
+      TX Props with Shadow_313: -736007885
+      TX Props with Shadow_314: 384355660
+      TX Props with Shadow_315: -426851036
+      TX Props with Shadow_316: 855026389
+      TX Props with Shadow_317: 253398451
+      TX Props with Shadow_318: -1298403470
+      TX Props with Shadow_319: -1707739784
+      TX Props with Shadow_32: 1287802763
+      TX Props with Shadow_320: -1983676985
+      TX Props with Shadow_321: -1558873648
+      TX Props with Shadow_322: -1596037406
+      TX Props with Shadow_323: 2132950312
+      TX Props with Shadow_324: 1070531581
+      TX Props with Shadow_325: -301392822
+      TX Props with Shadow_326: -1612618456
+      TX Props with Shadow_327: 566623199
+      TX Props with Shadow_328: 616366356
+      TX Props with Shadow_329: 688289709
+      TX Props with Shadow_33: -1284582224
+      TX Props with Shadow_330: 291031295
+      TX Props with Shadow_331: 203272656
+      TX Props with Shadow_332: -302654276
+      TX Props with Shadow_333: -372435931
+      TX Props with Shadow_334: -1503106174
+      TX Props with Shadow_335: 1725394031
+      TX Props with Shadow_336: -477260092
+      TX Props with Shadow_337: -393223255
+      TX Props with Shadow_338: -1118380830
+      TX Props with Shadow_339: 2009469299
+      TX Props with Shadow_34: 552073185
+      TX Props with Shadow_340: 1213799993
+      TX Props with Shadow_341: -396519992
+      TX Props with Shadow_342: 1079382496
+      TX Props with Shadow_343: 644122508
+      TX Props with Shadow_344: -1302460845
+      TX Props with Shadow_345: -1441692210
+      TX Props with Shadow_346: 1582199470
+      TX Props with Shadow_347: -983769804
+      TX Props with Shadow_348: 1201344711
+      TX Props with Shadow_349: -1143641880
+      TX Props with Shadow_35: -844830498
+      TX Props with Shadow_350: 1855852955
+      TX Props with Shadow_351: 1200063910
+      TX Props with Shadow_352: -571714906
+      TX Props with Shadow_353: -859103003
+      TX Props with Shadow_354: -156307021
+      TX Props with Shadow_355: 1273821622
+      TX Props with Shadow_356: -878541782
+      TX Props with Shadow_357: -2130077198
+      TX Props with Shadow_358: -647382266
+      TX Props with Shadow_359: 1258831154
+      TX Props with Shadow_36: -1840898600
+      TX Props with Shadow_360: 992001132
+      TX Props with Shadow_361: 227772376
+      TX Props with Shadow_362: -120977605
+      TX Props with Shadow_363: -1396166577
+      TX Props with Shadow_364: -833585603
+      TX Props with Shadow_365: -1041402344
+      TX Props with Shadow_366: 1552377122
+      TX Props with Shadow_367: 1808544849
+      TX Props with Shadow_368: 1133498963
+      TX Props with Shadow_369: 516047929
+      TX Props with Shadow_37: 1188532484
+      TX Props with Shadow_370: -510505180
+      TX Props with Shadow_371: 112987029
+      TX Props with Shadow_372: -690362769
+      TX Props with Shadow_373: -1559432685
+      TX Props with Shadow_374: 1369327683
+      TX Props with Shadow_375: -582176180
+      TX Props with Shadow_376: 980251826
+      TX Props with Shadow_377: -785225200
+      TX Props with Shadow_378: 538923541
+      TX Props with Shadow_379: 1221843335
+      TX Props with Shadow_38: 301402076
+      TX Props with Shadow_380: -1871260507
+      TX Props with Shadow_381: -1380750897
+      TX Props with Shadow_382: 1199627852
+      TX Props with Shadow_383: 1811134976
+      TX Props with Shadow_384: -365652590
+      TX Props with Shadow_385: 1408726250
+      TX Props with Shadow_386: -1511736122
+      TX Props with Shadow_387: 78325191
+      TX Props with Shadow_388: -1074882981
+      TX Props with Shadow_389: 763763070
+      TX Props with Shadow_39: -170140581
+      TX Props with Shadow_390: 444175681
+      TX Props with Shadow_391: 1951427206
+      TX Props with Shadow_392: 1763055232
+      TX Props with Shadow_393: -1106402152
+      TX Props with Shadow_394: 1508255797
+      TX Props with Shadow_395: 840851104
+      TX Props with Shadow_396: 1189911712
+      TX Props with Shadow_397: 199490859
+      TX Props with Shadow_398: 1380856531
+      TX Props with Shadow_399: -1712250632
+      TX Props with Shadow_4: 1560870395
+      TX Props with Shadow_40: 1709940312
+      TX Props with Shadow_400: 1520960710
+      TX Props with Shadow_401: -1322861025
+      TX Props with Shadow_41: -316633538
+      TX Props with Shadow_42: -444337183
+      TX Props with Shadow_43: -1673572899
+      TX Props with Shadow_44: 918819579
+      TX Props with Shadow_45: 261927555
+      TX Props with Shadow_46: -884526691
+      TX Props with Shadow_47: -391204033
+      TX Props with Shadow_48: -1906671364
+      TX Props with Shadow_49: -14146192
+      TX Props with Shadow_5: -518882993
+      TX Props with Shadow_50: -660918758
+      TX Props with Shadow_51: -1647534173
+      TX Props with Shadow_52: -949968670
+      TX Props with Shadow_53: -942141880
+      TX Props with Shadow_54: -1358467885
+      TX Props with Shadow_55: -167556393
+      TX Props with Shadow_56: 2090912368
+      TX Props with Shadow_57: 445029128
+      TX Props with Shadow_58: 1372729217
+      TX Props with Shadow_59: 1475540371
+      TX Props with Shadow_6: 1235237121
+      TX Props with Shadow_60: 317141121
+      TX Props with Shadow_61: 828051434
+      TX Props with Shadow_62: -1027213965
+      TX Props with Shadow_63: -360700560
+      TX Props with Shadow_64: 1721831843
+      TX Props with Shadow_65: 1940031185
+      TX Props with Shadow_66: -1732240975
+      TX Props with Shadow_67: 226368244
+      TX Props with Shadow_68: -489181073
+      TX Props with Shadow_69: 1806098913
+      TX Props with Shadow_7: -129760670
+      TX Props with Shadow_70: -829341176
+      TX Props with Shadow_71: 695139004
+      TX Props with Shadow_72: 228233072
+      TX Props with Shadow_73: -894485518
+      TX Props with Shadow_74: 511075112
+      TX Props with Shadow_75: -64063593
+      TX Props with Shadow_76: 733408632
+      TX Props with Shadow_77: 1446221765
+      TX Props with Shadow_78: 982900264
+      TX Props with Shadow_79: 1460286230
+      TX Props with Shadow_8: 317007672
+      TX Props with Shadow_80: 1388968399
+      TX Props with Shadow_81: -2059905620
+      TX Props with Shadow_82: 1939563363
+      TX Props with Shadow_83: 1504673127
+      TX Props with Shadow_84: -1207350214
+      TX Props with Shadow_85: -367692763
+      TX Props with Shadow_86: -220850936
+      TX Props with Shadow_87: 416460647
+      TX Props with Shadow_88: 2097649794
+      TX Props with Shadow_89: -690202928
+      TX Props with Shadow_9: -1665262515
+      TX Props with Shadow_90: -1616109023
+      TX Props with Shadow_91: -1146648529
+      TX Props with Shadow_92: 33168861
+      TX Props with Shadow_93: 513793424
+      TX Props with Shadow_94: 679040708
+      TX Props with Shadow_95: 1949634260
+      TX Props with Shadow_96: -912744624
+      TX Props with Shadow_97: 2041575188
+      TX Props with Shadow_98: 509910172
+      TX Props with Shadow_99: -831461539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
